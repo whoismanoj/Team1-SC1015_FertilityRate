@@ -1,4 +1,6 @@
-# Welcome to movie-analysis repository
+# Welcome to Singapore Waste Management repository
+
+wip - https://docs.google.com/presentation/d/1xkltPWhsaUnA32IbRDwqRVtUVM07CIhAM8T27MaHz0I/edit?usp=sharing
 
 ## About
 
