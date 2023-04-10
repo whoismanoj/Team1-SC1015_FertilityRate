@@ -1,11 +1,12 @@
-# Welcome to Singapore Waste Management repository
+# Welcome to Singapore - Fertility Rate Studies
 
 wip - https://docs.google.com/presentation/d/1xkltPWhsaUnA32IbRDwqRVtUVM07CIhAM8T27MaHz0I/edit?usp=sharing
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Singapore waste management (https://www.kaggle.com/datasets/kingabzpro/singapore-waste-management). For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Singapore fertility rate (https://www.singstat.gov.sg/find-data/search-by-theme/population/births-and-fertility/visualising-data). For detailed walkthrough, please view the source code in order from:
 
+**UPDATE THIS**
 1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
 2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
 3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
@@ -14,22 +15,27 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- Mai Xiwen - Neural Networks, Data Resampling, Data Extraction
-- Tan Xuan Yo - Logistic Regression
-- Lux Pang Jian Wen - Data Visualization, Data Extraction
+- Mai Xiwen - Data Extraction, Data Visualization, Multivariate Analysis
+- Tan Xuan Yo -   Data Preparation and cleaning, Data Resampling, Data Extraction, Data Visualization
+- Lux Pang Jian Wen - Data Visualization, Logistic Regression, Machine Learning and Analysis
 
 ## Problem Definition
 
-- Are we able to predict if a movie is good (rating above 7.2) based on its attributes?
-- Which model would be the best to predict it?
+- Analysis abnormality in fertility trend from 1980 - 2022
+  - What might be the causes for the stagnated trend from 1985-2005
+  - What might be the causes for the fertility spike at 1995
+- Are we able to predict what will the fertility rate be from 2023 - 2030?
+- Which model will best predict it?
 
 ## Models Used
 
+**UPDATE THIS**
 1. Logistic Regression
 2. Neural Networks
 
 ## Conclusion
 
+**UPDATE THIS**
 - Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
 - Popularity of the casts and crews have higher linear correlation value with ratings
 - Resampling imbalanced data improved model performance especially on the minority class
@@ -39,6 +45,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## What did we learn from this project?
 
+**UPDATE THIS**
 - Handling imbalanced datasets using resampling methods and imblearn package
 - Neural Networks, Keras and Tensorflow
 - Logistic Regression from sklearn
@@ -49,4 +56,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## References
 
-- [<https://www.kaggle.com/datasets/kingabzpro/singapore-waste-management>]
+- [<https://www.singstat.gov.sg/find-data/search-by-theme/population/births-and-fertility/visualising-data>]
