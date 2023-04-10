@@ -1,7 +1,5 @@
 # Welcome to Singapore - Fertility Rate Studies
 
-wip - https://docs.google.com/presentation/d/1xkltPWhsaUnA32IbRDwqRVtUVM07CIhAM8T27MaHz0I/edit?usp=sharing
-
 ## About
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Singapore fertility rate (https://www.singstat.gov.sg/find-data/search-by-theme/population/births-and-fertility/visualising-data). For detailed walkthrough, please view the source code in order from:
