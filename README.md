@@ -23,7 +23,9 @@ Low fertility rates can have various negative consequences for a country, includ
 
 The fertility rate in Singapore has been steadily declining over the past few decades, which can lead to an aging population and economic and social challenges. To address this issue, we aim to analyze the factors that contribute to low fertility rates and predict the fertility rate in the next 10 years.
 
-Specifically, we have explored the relationship between education level, cost of living, and rate of marriage and fertility rates and decide on which factor is the better factor to be used for prediction.
+Specifically, we would like to explore the relationship between education level, cost of living, and rate of marriage and how it affects our fertility rate?
+
+Lastly, We would like to predict what is the fertilty rate for the next 10 years.
 
 ## Models Used
 
