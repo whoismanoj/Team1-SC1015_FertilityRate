@@ -14,7 +14,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 - Mai Xiwen - Data Extraction, Data Visualization, Multivariate Analysis
 - Tan Xuan Yo -   Data Preparation and cleaning, Data Resampling, Data Extraction, Data Visualization
-- Lux Pang Jian Wen - Data Visualization, Logistic Regression, Machine Learning and Analysis
+- Lux Pang Jian Wen - Data Visualization, Linear Regression, Machine Learning and Analysis
 
 ## Motivation
 Low fertility rates can have various negative consequences for a country, including an aging population, decreased economic growth, and social challenges. As the workforce decreases and the number of retirees increases, healthcare and pension costs may rise, while there may be a shortage of skilled workers. In addition, a shrinking population can affect a country's political and social stability, and change social norms and cultural values. Governments should therefore address this issue and encourage higher fertility rates through policies and programs that support families and child-rearing.
@@ -30,8 +30,8 @@ Lastly, We would like to predict what is the fertilty rate for the next 10 years
 ## Models Used
 
 **UPDATE THIS**
-1. Logistic Regression
-2. Neural Networks
+1. Linear Regression
+2. Polynomial Regression
 
 ## Conclusion
 
