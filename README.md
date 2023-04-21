@@ -8,7 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 1. [Data Cleaning](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Part%201%20Data%20Cleaning.ipynb)
 2. [Data Basic Visualization](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Part%202%20Basic%20Visualisation.ipynb)
 3. [Exploratory data analysis](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Part%203%20Data%20Exploration.ipynb)
-4. [Prediction and Modelling](XX)
+4. [Prediction and Modelling](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Project%20-%20Linear%20Regression%20(Multi-Variate)%20-%20Lux.ipynb)
   
 ## Contributors
 
