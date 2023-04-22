@@ -6,9 +6,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 **UPDATE THIS**
 1. [Data Cleaning](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Part%201%20Data%20Cleaning.ipynb)
-2. [Data Basic Visualization](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Part%202%20Basic%20Visualisation.ipynb)
+2. [Data Basic Visualization](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Part%202%20Basic%20Visualisation.ipynbic%20Visualisation.ipynb)
 3. [Exploratory data analysis](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Part%203%20Data%20Exploration.ipynb)
-4. [Prediction and Modelling](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Project%20-%20Linear%20Regression%20(Multi-Variate)%20-%20Lux.ipynb)
+4. [Prediction and Modelling](https://github.com/xiwen4/SC1015_FertilityRate/blob/main/SC1015%20Part%204%20Prediction%20and%20Modelling.ipynb)
   
 ## Contributors
 
@@ -28,20 +28,15 @@ Specifically, we would like to explore the relationship between education level,
 Lastly, We would like to predict what is the fertilty rate for the next 10 years.
 
 ## Models Used
-
-**UPDATE THIS**
 1. Linear Regression
 2. Polynomial Regression
 
 ## Conclusion
-
-**UPDATE THIS**
-
-- Popularity of the casts and crews have higher linear correlation value with ratings
-- Resampling imbalanced data improved model performance especially on the minority class
-- Logistic Regression did not perform well with non-linearly correlated variables
-- Neural Networks along with SMOTEENN resampling method consistently did well in predicting good movies after 100 training attempts (around 72% accuracy, 70% recall)
-- Yes, it is possible to predict if a movie is good with acceptable amount of accuracy and recall
+- Fertility rate decline through the years as the cost of living and women's education level increase
+- However for women above 30, there have been an increase in fertility rate since 1990s.
+- The increase could be due to various factors, such as rise in education levels among women and a shift towards delaying childbirth until later in life.
+- We explored various factors and found that education provides the closest prediction of the fertility rate.
+- Using linear regression, we predicted that the fertility rate(FR) will continue to decline in the next 10 years. (from FR:0.99 in year 2024 to 0.79 in year 2033)
 
 ## What did we learn from this project?
 - Polynomial regression: a curved line to model the relationship between variables of a certain degree. It's useful for non-linear relationships, but can overfit and extrapolate beyond the data.
