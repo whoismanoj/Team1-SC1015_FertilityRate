@@ -6,3 +6,4 @@ My observations:
   - No reason is mentioned why polynomial regression is being used.
   - Slides are not bad. Could have presented better.
   - Most of the works are within syllabus.
+  - Overall, the project is great!
